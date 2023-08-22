@@ -10,4 +10,4 @@ seq_o : Sequence output on every cycle
 The generator should produce output every cycle
 You can assume that the sequence generator would never overflow
 
-Publicly availiable [here](https://quicksilicon.in/course/rtl-design/module/sequence-generator).
+Publicly available [here](https://quicksilicon.in/course/rtl-design/module/sequence-generator).
